@@ -1,0 +1,1 @@
+//Array met sterren ofzo
